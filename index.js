@@ -11,7 +11,7 @@ function fuzzyMatch (list, provided) {
   });
 }
 
-function matchName (){
+function matchName (drivers ,name){
   
   
 }
