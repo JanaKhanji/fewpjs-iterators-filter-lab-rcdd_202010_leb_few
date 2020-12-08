@@ -10,3 +10,8 @@ function fuzzyMatch (list, provided) {
     return name.slice(0, provided.length) === provided;
   });
 }
+
+function matchName (){
+  
+  
+}
